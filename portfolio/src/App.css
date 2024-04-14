@@ -1,0 +1,17 @@
+.box-shadow{
+    box-shadow: 3px 4px 28px 11px rgba(0,0,0,0.75);
+-webkit-box-shadow: 3px 4px 28px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: 3px 4px 28px 11px rgba(0,0,0,0.75);
+/*   */
+}
+.up-down-arrow {
+    padding: 8px;
+    margin: 5px;
+    width: max-content !important;
+    background-color: gray;
+    position: fixed;
+    bottom: 0;
+    left: 95%;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
